@@ -1,4 +1,6 @@
 *.yml linguist-vendored=false
+Gemfile.lock linguist-vendored=false
+Gemfile linguist-vendored=false
 docs/* linguist-vendored=false
 tools/*.yml linguist-vendored=false
 tools/* linguist-vendored=false
